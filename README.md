@@ -1,5 +1,5 @@
-
-
+## E-learning website 
+---
 ## 🚀 Features
 
 - 🔐 Student login with name and email
@@ -62,8 +62,3 @@ e-learning-platform/
 
 ---
 
-## 📷 Preview
-
-> _📌 Add screenshots of the Login page, Course list, and Progress section here_
-
----
